@@ -1,0 +1,16 @@
+D:\C# Projects\WarSimulator\WarSimulator\bin\Debug\net5.0\WarSimulator.exe
+D:\C# Projects\WarSimulator\WarSimulator\bin\Debug\net5.0\WarSimulator.deps.json
+D:\C# Projects\WarSimulator\WarSimulator\bin\Debug\net5.0\WarSimulator.runtimeconfig.json
+D:\C# Projects\WarSimulator\WarSimulator\bin\Debug\net5.0\WarSimulator.runtimeconfig.dev.json
+D:\C# Projects\WarSimulator\WarSimulator\bin\Debug\net5.0\WarSimulator.dll
+D:\C# Projects\WarSimulator\WarSimulator\bin\Debug\net5.0\ref\WarSimulator.dll
+D:\C# Projects\WarSimulator\WarSimulator\bin\Debug\net5.0\WarSimulator.pdb
+D:\C# Projects\WarSimulator\WarSimulator\obj\Debug\net5.0\WarSimulator.csproj.AssemblyReference.cache
+D:\C# Projects\WarSimulator\WarSimulator\obj\Debug\net5.0\WarSimulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\WarSimulator\WarSimulator\obj\Debug\net5.0\WarSimulator.AssemblyInfoInputs.cache
+D:\C# Projects\WarSimulator\WarSimulator\obj\Debug\net5.0\WarSimulator.AssemblyInfo.cs
+D:\C# Projects\WarSimulator\WarSimulator\obj\Debug\net5.0\WarSimulator.csproj.CoreCompileInputs.cache
+D:\C# Projects\WarSimulator\WarSimulator\obj\Debug\net5.0\WarSimulator.dll
+D:\C# Projects\WarSimulator\WarSimulator\obj\Debug\net5.0\ref\WarSimulator.dll
+D:\C# Projects\WarSimulator\WarSimulator\obj\Debug\net5.0\WarSimulator.pdb
+D:\C# Projects\WarSimulator\WarSimulator\obj\Debug\net5.0\WarSimulator.genruntimeconfig.cache
